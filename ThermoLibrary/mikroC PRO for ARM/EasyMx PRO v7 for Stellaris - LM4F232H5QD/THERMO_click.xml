@@ -1,0 +1,13 @@
+<THERMO_click>
+	<Attributes>
+		<Url>http://www.mikroe.com/eng/products/view/930/thermo-click/</Url>
+		<Image>Thermo_click_thumb.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick>OpenUrl</OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick>OpenUrl</OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</THERMO_click>
